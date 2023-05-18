@@ -1,5 +1,5 @@
 #Hola, mi nombre es Auron 👋
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack engineer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
